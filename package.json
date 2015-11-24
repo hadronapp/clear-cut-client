@@ -1,0 +1,12 @@
+{
+  "name": "clear-cut-client",
+  "version": "0.0.0",
+  "description": "clear-cut to use on the client via Browserify",
+  "author": "Pedro Garcia <pdgago@gmail.com>",
+  "dependencies": {
+    "clear-cut": "^2.0.1",
+    "gulp": "~3.3.1",
+    "gulp-browserify": "https://github.com/deepak1556/gulp-browserify/tarball/master",
+    "gulp-concat": "~2.1.7"
+  }
+}
