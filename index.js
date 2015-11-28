@@ -1,1 +1,1 @@
-specificity = require('./node_modules/clear-cut/index');
+_cc = require('./node_modules/clear-cut/index');
